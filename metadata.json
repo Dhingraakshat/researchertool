@@ -1,0 +1,5 @@
+{
+  "name": "MDDOAI Researcher Tool",
+  "description": "Automated data extraction for Systematic Literature Reviews using Gemini AI. Supports PDF and CSV inputs.",
+  "requestFramePermissions": []
+}
